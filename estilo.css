@@ -1,0 +1,51 @@
+body{
+    background-color:aquamarine;
+    background-color: cadetblue;
+    border:solid red 5px;
+    
+
+}
+div{
+    border: solid black 5px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#amarelo{
+    background-color: yellow;
+
+}
+.preenchimento{
+    padding: 30px;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border: solid 3px red;
+    float: left;
+}
+#paragrafo_amarelo{
+    color:purple;
+}
+a{
+    text-decoration: none;
+    border: purple dotted 5px;
+    padding: 10px;
+
+}
+a:hover{
+    background-color: yellow;
+ 
+}
+p{
+    border: solid 3px red;
+    
+}
