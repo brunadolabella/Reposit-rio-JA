@@ -1,51 +1,31 @@
 body{
-    background-color:aquamarine;
-    background-color: cadetblue;
-    border:solid red 5px;
+    margin: 50px;
     
-
-}
-div{
-    border: solid black 5px;
-}
-h1{
-    font-size: 50px;
-    text-align: center;
-    color: white;
-    text-transform: uppercase;
-    letter-spacing: 50px;
-}
-p{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
-}
-#amarelo{
-    background-color: yellow;
-
-}
-.preenchimento{
-    padding: 30px;
 }
 img{
-    width: 50px;
-    height: 50px;
-    border: solid 3px red;
-    float: left;
-}
-#paragrafo_amarelo{
-    color:purple;
-}
-a{
-    text-decoration: none;
-    border: purple dotted 5px;
-    padding: 10px;
+ 
+    margin-left: 25%;
+
 
 }
-a:hover{
-    background-color: yellow;
- 
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rosybrown;
+    text-align: center;
+    letter-spacing: 5px;
+    
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    border: red solid 3px;
 }
 p{
-    border: solid 3px red;
+    line-height: 2;
+    font-family: 'Courier New', Courier, monospace;
     
+} 
+section{
+    
+    padding: 100px;
+
 }
